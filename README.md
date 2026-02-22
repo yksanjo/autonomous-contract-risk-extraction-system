@@ -1,10 +1,10 @@
-# Autonomous Contract Risk Extraction System
+# autonomous-contract-risk-extraction-system
 
-Extract contractual obligations, risks, and missing safeguards.
+## Detailed Description
 
 ## Vertical
 
-agent
+## Problem Statement
 
 ## Production MVP Deliverables
 
